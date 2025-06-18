@@ -8,5 +8,5 @@
 	branch = master
 [submodule "packages/3rdparty/airship_simulation"]
 	path = packages/3rdparty/airship_simulation
-	url = https://github.com/robot-perception-group/airship_simulation.git
+	url = https://github.com/Mhabbak/airship_simulation.git
 	branch = mpc-test
